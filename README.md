@@ -95,6 +95,7 @@ print('Mean Squared Error (MSE) =', mse)
 print('Mean Absolute Error (MAE) =', mae)
 print('Root Mean Squared Error (RMSE) =', rmse)
 
+
 ```
 ## Output:
 <img width="593" height="296" alt="image" src="https://github.com/user-attachments/assets/87137e50-b22d-4015-9d15-48eb52290f10" />
