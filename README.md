@@ -28,7 +28,6 @@ Program to implement the simple linear regression model for predicting the marks
 Developed by: SRI SRINIVASAN K
 RegisterNumber:  212224220104
 */
-
 # Importing necessary libraries
 import pandas as pd
 import numpy as np
@@ -94,16 +93,11 @@ rmse = np.sqrt(mse)
 print('Mean Squared Error (MSE) =', mse)
 print('Mean Absolute Error (MAE) =', mae)
 print('Root Mean Squared Error (RMSE) =', rmse)
-
-
 ```
 ## Output:
 <img width="593" height="296" alt="image" src="https://github.com/user-attachments/assets/87137e50-b22d-4015-9d15-48eb52290f10" />
-
 <img width="884" height="708" alt="image" src="https://github.com/user-attachments/assets/ff242455-572e-4fab-8faa-c00b9863130b" />
-
 <img width="932" height="650" alt="image" src="https://github.com/user-attachments/assets/892a2de4-b40c-4f50-bc38-e610b0effce9" />
-
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
